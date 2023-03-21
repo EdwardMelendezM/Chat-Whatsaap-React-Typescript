@@ -28,3 +28,26 @@
   font-size: 1em;
   padding-left: 8px;
 }
+.containerChat_User_Container_footer_emojis{
+  position: absolute;
+  bottom: 120px;
+  right: 100px;
+  width: 300px;
+  height: 350px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+}
+
+.containerChat_User_Container_footer_emojis_input{
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  margin: 0 auto;
+}
+.containerChat_User_Container_footer_emojis_input input{
+  width: 100%;
+  height: 35px;
+  padding-left: 6px;
+  border: 0;
+  border-radius: 8px;
+}
