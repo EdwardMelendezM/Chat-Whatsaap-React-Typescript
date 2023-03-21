@@ -7,7 +7,7 @@ export default function BuscadorUser() {
               className="containerChat_User_Container_buscador_input"
               placeholder="Search name"
             />
-            <IonIcon  name="search-outline"></IonIcon >
+            <IonIcon  icon="search-outline"></IonIcon >
           </div>
   )
 };

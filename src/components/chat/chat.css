@@ -283,32 +283,3 @@
   color: #ccc;
 }
 
-.containerChat_User_Container_footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 95%;
-  padding: 10px;
-  border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.3);
-}
-
-.containerChat_User_Container_footer ion-icon {
-  font-size: 1.5em;
-  padding: 5px;
-  color: rgba(255, 255, 255, 0.8);
-  cursor: pointer;
-}
-
-.containerChat_User_Container_footer ion-icon:hover {
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.containerChat_User_Container_footer_input {
-  min-width: 80%;
-  height: 35px;
-  color: #272323;
-  background-color: transparent;
-  border: 0;
-  font-size: 1em;
-}

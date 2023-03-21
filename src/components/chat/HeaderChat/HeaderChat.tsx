@@ -16,7 +16,7 @@ export default function HeaderChat() {
               </p>
             </div>
           </div>
-          <IonIcon name="ellipsis-horizontal-outline"></IonIcon>
+          <IonIcon icon="ellipsis-horizontal-outline"></IonIcon>
         </div>
   )
 };

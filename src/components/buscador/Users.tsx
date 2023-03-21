@@ -12,7 +12,7 @@ export default function Users() {
                   alt="user"
                   className="containerChat_User_Container_Users_user_img"
                 />
-                <IonIcon name="ellipse-outline"></IonIcon>
+                <IonIcon icon="ellipse-outline"></IonIcon>
               </div>
               <div className="containerChat_User_Container_Users_user_text">
                 <p className="containerChat_User_Container_Users_user_text_name">
