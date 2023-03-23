@@ -30,8 +30,8 @@
 }
 .containerChat_User_Container_footer_emojis{
   position: absolute;
-  bottom: 120px;
-  right: 100px;
+  bottom: 210px;
+  right: 140px;
   width: 300px;
   height: 350px;
   background-color: rgba(255, 255, 255, 0.8);
