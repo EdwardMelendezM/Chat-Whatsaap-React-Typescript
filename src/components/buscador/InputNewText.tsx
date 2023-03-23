@@ -22,7 +22,7 @@ export default function InputNewText() {
   return( 
     <div className="containerChat_User_Container_footer">
       {activeEmojis && <div className="containerChat_User_Container_footer_emojis">
-        <EmojiPicker  onEmojiClick={handleEmojiGetClick}/>
+        <EmojiPicker  onEmojiClick={handleEmojiGetClick} lazyLoadEmojis={true} />
       </div>}
       <IonIcon icon="add-outline" className="icon_add"></IonIcon>
       <input
